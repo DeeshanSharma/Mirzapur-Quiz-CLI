@@ -69,7 +69,7 @@ question("What did Sweety and Guddu had on their date?\n", ["Sonepapdi", "Began 
 
 question("What Guddu ordered at Munna Bhaiya's house?\n", ["Kadhi chawal", "Bundi ka raeta", "Eggs", "Kuch to order kiye the abhi yaad nhi h"], 3);
 
-question("What that Grocery Store person used to call Guddu's Mother?\n", ["Aunty Ji", "Bhabhi Ji", "Panditayn", "Mata Shree"], 3);
+question("What that Grocery Store person used to call Bablu's Mother?\n", ["Aunty Ji", "Bhabhi Ji", "Panditayn", "Mata Shree"], 3);
 
 question("What Golu was doing in the library?\n", ["Vhi akele vala kaam", "Sleeping", "Eating", "Studying"], 4);
 
